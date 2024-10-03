@@ -1,0 +1,14 @@
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\bin\Debug\net8.0\BAI1.exe
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\bin\Debug\net8.0\BAI1.deps.json
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\bin\Debug\net8.0\BAI1.runtimeconfig.json
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\bin\Debug\net8.0\BAI1.dll
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\bin\Debug\net8.0\BAI1.pdb
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.AssemblyInfoInputs.cache
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.AssemblyInfo.cs
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.csproj.CoreCompileInputs.cache
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.dll
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\refint\BAI1.dll
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.pdb
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\BAI1.genruntimeconfig.cache
+C:\Users\sambe\Downloads\Aftekenopdrachten1_stack_queue_random (1)\BAI1\obj\Debug\net8.0\ref\BAI1.dll
